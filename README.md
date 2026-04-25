@@ -1,12 +1,12 @@
-- # Halo, Nama Saya [Kyan]! 👋
+- # Salam kenal, Nama Saya [Kyan]! 👋
 
-Selamat datang di profil GitHub saya! Saya seorang [siswa dari sma muhammadiyah 6]. Saya tertarik dengan [coding, menulis novel, karya ilmiah, literasi, serta mengembangkan web.] dan selalu bersemangat untuk belajar hal-hal baru di dunia teknologi!
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa dari fakultas Teknik Informatika Universitas Indo Global Mandiri. Saya tertarik dengan [coding, menulis novel, karya ilmiah, literasi, serta mengembangkan web.] dan selalu bersemangat untuk belajar hal-hal baru di dunia teknologi!
 
 ## Tentang Saya
-- 🌱 Saat ini saya sedang belajar [html,phyton,mysql].
+- 🌱 Saat ini saya sedang belajar [Java, Rust , dan Ruby].
 - 💬 Jangan ragu untuk bertanya kepada saya tentang [sejarah, sosiologi,ekonomi,bahasa indonesia dan inggris, serta informatika].
 - 📫 Cara menghubungi saya: [dangkyan.jahrman@gmail.com].
-- ⚡ Fakta Menarik: [tuliskan fakta unik atau minat pribadi Anda].
+- ⚡ Fakta Menarik: [i love cats and matcha!!].
 
 ## Keahlian
 - Bahasa Pemrograman: [Python, JavaScript, Java, dll.]
