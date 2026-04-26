@@ -1,22 +1,69 @@
-- # Salam kenal, Nama Saya [Kyan]! 👋
+# Halo, Saya Dang Kyan Jahrman! 👋
 
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa dari fakultas Teknik Informatika Universitas Indo Global Mandiri. Saya tertarik dengan [coding, menulis novel, karya ilmiah, literasi, serta mengembangkan web.] dan selalu bersemangat untuk belajar hal-hal baru di dunia teknologi!
+> Mahasiswa Teknik Informatika yang passionate dalam coding, literasi, dan teknologi web.
 
-## Tentang Saya
-- 🌱 Saat ini saya sedang belajar [Java, Rust , dan Ruby].
-- 💬 Jangan ragu untuk bertanya kepada saya tentang [sejarah, sosiologi,ekonomi,bahasa indonesia dan inggris, serta informatika].
-- 📫 Cara menghubungi saya: [dangkyan.jahrman@gmail.com].
-- ⚡ Fakta Menarik: [i love cats and matcha!!].
+---
 
-## Keahlian
-- Bahasa Pemrograman: [Python, JavaScript, Java, dll.]
-- Framework & Teknologi: [React, Node.js, Django, dll.]
-- Alat & Perangkat Lunak: [Git, VS Code, dll.]
+## 🎓 Tentang Saya
 
-## Proyek Unggulan
-Berikut adalah beberapa proyek yang sudah saya kerjakan:
-- [Nama Proyek 1](tautan proyek 1) - Deskripsi singkat proyek.
-- [Nama Proyek 2](tautan proyek 2) - Deskripsi singkat proyek.
-- [Nama Proyek 3](tautan proyek 3) - Deskripsi singkat proyek.
+- 🏫 Mahasiswa **Teknik Informatika** — Universitas Indo Global Mandiri, Palembang
+- 🌱 Saat ini sedang belajar **Java OOP, Rust, dan Ruby**
+- 💻 Suka membangun **web**, menulis **novel**, dan membuat **karya ilmiah**
+- 🐱 Pecinta kucing dan matcha! ☕
+- 📫 Hubungi saya: [dangkyan.jahrman@gmail.com](mailto:dangkyan.jahrman@gmail.com)
+- 🌐 Portfolio: [dkj.netlify.app](https://dkj.netlify.app)
 
-Terima kasih telah mengunjungi profil saya, dan selamat coding! 🚀
+---
+
+## 🛠️ Tech Stack
+
+**Bahasa Pemrograman:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Sedang Dipelajari:**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+**Tools:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Proyek Unggulan
+
+| Proyek | Deskripsi | Tech |
+|--------|-----------|------|
+| [🌐 Portfolio Website](https://dkj.netlify.app) | Personal portfolio dengan contact form | HTML, CSS, JS |
+| [☕ Java Projects](https://github.com/Ky4n0108/Java-Projects) | Kumpulan program Java dari dasar hingga aplikasi CLI | Java |
+| [⚙️ C++ Projects](https://github.com/Ky4n0108/cpp-projects) | Dari basic hingga linked list & dungeon crawler game | C++ |
+| [🐍 Python Projects](https://github.com/Ky4n0108/python-projects) | Kumpulan program Python | Python |
+
+---
+
+## 💬 Bisa Tanya Saya Tentang
+`Sejarah` `Sosiologi` `Ekonomi` `Bahasa Indonesia` `Bahasa Inggris` `Informatika` `Programming`
+
+---
+
+## ⚡ Fakta Menarik
+- 🐱 I love cats!
+- 🍵 Matcha addict
+- 📚 Suka nulis novel di waktu luang
+- 🎮 Gamer: Genshin Impact, Honkai Star Rail, FNAF
+
+---
+
+*Thanks for visiting my profile! Keep coding and never stop learning! 🚀*
