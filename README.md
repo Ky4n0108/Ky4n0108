@@ -12,7 +12,6 @@
 - 🐱 Pecinta kucing dan matcha! ☕
 - 📫 Hubungi saya: [dangkyan.jahrman@gmail.com](mailto:dangkyan.jahrman@gmail.com)
 - 🌐 Portfolio: [dkj.netlify.app](https://dkj.netlify.app)
-
 ---
 
 ## 🛠️ Tech Stack
