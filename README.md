@@ -66,4 +66,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Kyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ky4n0108&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ky4n0108&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ky4n0108&theme=tokyonight&hide_border=true)
+
 *Thanks for visiting my profile! Keep coding and never stop learning! 🚀*
